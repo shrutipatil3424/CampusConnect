@@ -1,0 +1,8 @@
+streamlit>=1.65.0
+mysql-connector-python>=8.4.0
+scikit-learn>=1.4.0
+pandas>=2.1.0
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+Werkzeug>=3.0.0
+pytest>=8.0.0
